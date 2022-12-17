@@ -1,0 +1,14 @@
+.body-text {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+.nav-items {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+.logo {
+    size:0ch;
+}
