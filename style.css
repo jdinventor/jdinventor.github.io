@@ -1,14 +1,20 @@
-.body-text {
-    display: flex;
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: darkgreen;
+}
+
+.body-text {
     color: green;
 }
 
 .nav-items {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: red;
+    text-align: right;
 }
 
 .logo {
-    size:0ch;
+    size: 50px;
+    font-weight: bold;
 }
