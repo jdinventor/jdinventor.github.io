@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-permalink: /projects
+permalink: /projects/
 ---
 
 Here you can find my current & past projects. Each page will be updated with progress, so check back for updates!
