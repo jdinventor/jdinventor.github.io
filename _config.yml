@@ -34,7 +34,6 @@ plugins:
   - jekyll-feed
 skin: dark
 header_pages:
-  - about.markdown
   - projects.md
 
 # Exclude from processing.
